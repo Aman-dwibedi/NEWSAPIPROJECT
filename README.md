@@ -36,8 +36,8 @@ cabal run
 
 The GNews API Wrapper provides a single endpoint to search for news articles. To use the API, send a GET request to the following URL:
 
-http://localhost:8081/search?q=<QUERY>&apikey=<APIKEY>
+http://localhost:8081/search?q=QUERY&apikey=APIKEY
 
-Replace <QUERY> with your search query and <APIKEY> with your GNews API key.
+Replace QUERY with your search query and APIKEY with your GNews API key.
 
 
